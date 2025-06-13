@@ -62,15 +62,6 @@ graph TD
 - 🔐 Secure data access using scoped credentials and Synapse views
 
 
-## 👨‍💻 Author
-
-**Apoorv Panwar**  
-📍 London, UK  
-📧 [apoorvpanwar2333@gmail.com](mailto:apoorvpanwar2333@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/apoorv-panwar-b216411ab)
-
----
-
 ## 📌 Future Improvements
 
 - Add automated scheduling via Data Factory triggers
