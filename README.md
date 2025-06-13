@@ -18,8 +18,6 @@ graph TD
     F --> G[Power BI - Reporting];
 ```
 
-![Architecture Diagram](A08B614C-A411-425E-9308-7FAB7B98D4AD.png)
-
 ---
 
 ## 🔧 Tools & Services Used
