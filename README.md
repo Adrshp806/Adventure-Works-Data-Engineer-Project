@@ -9,7 +9,7 @@ This project demonstrates a complete data engineering pipeline using Azure cloud
 ## 🗂️ Architecture Overview
 
 ```mermaid
-graph TD;
+graph TD
     A[HTTP Data Source] --> B[Azure Data Factory];
     B --> C[Data Lake Gen2 - Raw (Bronze)];
     C --> D[Databricks - Transformation];
