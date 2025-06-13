@@ -2,8 +2,7 @@
 # 🚀 Adventure Works Data Engineering Project (End-to-End on Azure)
 
 This project demonstrates a complete data engineering pipeline using Azure cloud services, Databricks, and Power BI — inspired by the **Adventure Works dataset**. It follows the classic **Bronze-Silver-Gold architecture** for data lakes and applies best practices in data ingestion, transformation, and reporting.
-
-🔗 **YouTube Tutorial Reference**: [Watch here](https://youtu.be/0GTZ-12hYtU?si=vIuucJLTlAzPRfxS)
+![WhatsApp Image 2025-06-13 at 22 24 27_6868a0b0](https://github.com/user-attachments/assets/9e7738df-6889-4fa0-884f-cf94e1d1e4f1)
 
 ---
 
@@ -62,27 +61,6 @@ graph TD;
 - 🔄 Scalable ETL with Databricks & ADF
 - 🔐 Secure data access using scoped credentials and Synapse views
 
----
-
-## 📁 Folder Structure
-
-```
-adventure-works-pipeline/
-│
-├── notebooks/                    # Databricks notebooks (.dbc or .ipynb)
-├── synapse-scripts/             # SQL scripts for EXTERNAL TABLE, CREDENTIAL, VIEW
-├── powerbi-dashboard/           # .pbix file
-├── data-samples/                # Optional: sample .csv or .parquet files
-└── README.md                    # This file
-```
-
----
-
-## 📸 Sample Dashboard
-
-> *(Insert a screenshot of your Power BI dashboard here)*
-
----
 
 ## 👨‍💻 Author
 
